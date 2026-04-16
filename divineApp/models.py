@@ -106,6 +106,7 @@ BANNER_CHOICES = [
     ('gallery', 'Gallery'),
     ('contact', 'Contact'),
     ('parallax','Parallax'),
+    ('products','Products')
 ]
 
 class BannerImages(models.Model):
